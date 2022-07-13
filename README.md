@@ -33,7 +33,7 @@ Visualization was done using simple visuals for easy comprehension
 ___
 # Total Crashes
 ![Total crashes](https://user-images.githubusercontent.com/108596514/178623148-0aa7ea4a-e6a2-411e-b402-658760aac9e5.jpg)
-There is a Total of crashes of 5,268 crashes
+There is a Total of 5,268 crashes
 ___
 # Total fatalities 
 ![Total fatalities ](https://user-images.githubusercontent.com/108596514/178623326-675971f1-5788-4014-9810-63dbcb0b65b7.jpg)
