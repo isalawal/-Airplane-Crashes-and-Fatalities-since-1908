@@ -7,7 +7,7 @@ ___
 * What is the Total number of Airplane Crashes from 1908 to 2009?
 * what is the Total number of Fatalities from 1908 to 2009?
 * What is the Total number of Passengers involved in the Crashes from 1908 to 2009?
- * What is the Fatality rate?
+* What is the Fatality rate?
 * How many planes crashed per Year? how many people were on board? how many survived? how many died?
 * What is the highest number of crashes by operator and Type of aircrafts?
 ___
@@ -35,37 +35,38 @@ ___
 ![Total crashes](https://user-images.githubusercontent.com/108596514/178623148-0aa7ea4a-e6a2-411e-b402-658760aac9e5.jpg)
 There is a Total of crashes of 5,268 crashes
 ___
-# Total fatali![Total fatalities ](https://user-images.githubusercontent.com/108596514/178623326-675971f1-5788-4014-9810-63dbcb0b65b7.jpg)
+# Total fatalities 
+![Total fatalities ](https://user-images.githubusercontent.com/108596514/178623326-675971f1-5788-4014-9810-63dbcb0b65b7.jpg)
 There is a Total of 105,479 Fatalities 
-ties 
 ___
-#Fatality Rate![fatttality rate](https://user-images.githubusercontent.com/108596514/178623560-a36c0b8d-a31c-4900-be9d-985ee7abbe80.jpg)
+# Fatality Rate
+![fatttality rate](https://user-images.githubusercontent.com/108596514/178623560-a36c0b8d-a31c-4900-be9d-985ee7abbe80.jpg)
 There is a Fatality rate of 72.97%
 ___
-# Slucers
-Year, Month and D![slicers](https://user-images.githubusercontent.com/108596514/178623732-b7658f6e-7066-4e0e-8159-331b3141818f.jpg)
-ay slicers to filter visuals
+# Slicers
+Year, Month and Days slicers to filter visuals
+![slicers](https://user-images.githubusercontent.com/108596514/178623732-b7658f6e-7066-4e0e-8159-331b3141818f.jpg)
 ___
-# Top![Top 5 years with most crashes](https://user-images.githubusercontent.com/108596514/178623852-77ba2f33-88ff-47b7-b679-b1022311cc81.jpg)
-1972 has the highest number of crashes with a Total 
-__-
-# Top 5 years![Top 5 years with most fatalities ](https://user-images.githubusercontent.com/108596514/178624032-82faf5da-aa8f-4950-8ada-b59ed17926ef.jpg)
+# Top 5 years with most Crashes 
+![Top 5 years with most crashes](https://user-images.githubusercontent.com/108596514/178623852-77ba2f33-88ff-47b7-b679-b1022311cc81.jpg)
+1972 has the highest number of crashes with a Total 104 crashes
+———
+# Top 5 years with most fatalities 
+![Top 5 years with most fatalities ](https://user-images.githubusercontent.com/108596514/178624032-82faf5da-aa8f-4950-8ada-b59ed17926ef.jpg)
 1972 has the highest number of Fatalities with a Total of 2,937 Fatalities 
 ___
-
-# Top![Top 5 operators with highest crashes ](https://user-images.githubusercontent.com/108596514/178624268-e0133f56-d052-4e02-a051-b56b1166c7bf.jpg)
- 5 Operators with highest crashes 
+# Top 5 operators with highest crashes 
+![Top 5 operators with highest crashes ](https://user-images.githubusercontent.com/108596514/178624268-e0133f56-d052-4e02-a051-b56b1166c7bf.jpg)
 Aeroflot has the highest number of crashes with a Total of 179 crashes 
----
+———
 # Top 5 Airplane Types with most Crashes 
-
 ![Top 5 Airplane types with most crashes](https://user-images.githubusercontent.com/108596514/178624425-5d3a0d07-96d5-49cb-b416-dc755ec7d0ca.jpg)
 Douglas DC-3 has the highest number of  crashes with a Total of 334 crashes.
 ___
-#Conclusion.
-*The 1972 has the highest number of Fatalities and highest number of crashes.
-*Douglas Airplanes have the highest number of crashes as the planes took first,third,fourth and fifth places in number of Crashes 
-*Year with high crashes might not have the highest Fatalities 
+# Conclusion.
+* The 1972 has the highest number of Fatalities and highest number of crashes.
+* Douglas Airplanes have the highest number of crashes as the planes took first,third,fourth and fifth places in number of Crashes 
+* Year with high crashes might not have the highest Fatalities 
 
 
 
